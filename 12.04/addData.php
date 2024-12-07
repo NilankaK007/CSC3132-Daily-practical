@@ -7,7 +7,7 @@
     <title>Insert data</title>
 </head>
 <body>
-<form action="day15.php" method="POST">
+<form action="addData.php" method="POST">
         <table>
             <tr>
                 <td align="right">Id:</td>
